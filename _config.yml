@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Atul Ganju"
 title_separator          : "-"
-name                     : "Atul Ganju"
-description              : "Machine Learning Theory @ Cornell University
+name                     : &name "Atul Ganju"
+description              : &description "Machine Learning Theory @ Cornell University"
 url                      : https://atulganju.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atulganju.github.io"
