@@ -17,7 +17,6 @@ Education
 Research Experience
 ======
 * September 2023-Present: Research Assistant (Cornell University)
-  * Cornell University
   * Designed and analyzed the first tractable stream-based selective sampling algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Working on manuscript on track for submission to ICML 2025
   * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance aware bounds and other bounds via this framework. Project is on track for submission to COLT 2025.
 
