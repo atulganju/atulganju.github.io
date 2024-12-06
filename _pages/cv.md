@@ -11,46 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Cornell University, 2024
+* B.A  in Mathematics and Computer Science (Magna Cum Laude), Cornell University, 2022
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2023-Present: Research Assistant (Cornell University)
+  * Cornell University
+  * Designed and analyzed the first tractable stream-based selective sampling algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Working on manuscript on track for submission to ICML 2025
+  * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance aware bounds and other bounds via this framework. Project is on track for submission to COLT 2025.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2021-February 2022: Undergraduate Research Assistant (Cornell University)
+  * Designed, implemented, and analyzed the results of experiments that tested the performance of basis reduction algorithms on bases for rotations of the integer lattice generated from a variety of basis sampling algorithms. Experiments were implemented in Python.
+  * Designed, implemented, and analyzed the results of experiments that determined how heuristic sieving algorithms perform on the integer lattice. Experiments were implemented in C++.
+  * Proved existence of orthogonal projection-based Cook reduction from ZSVP to 2-SVP.
   
-Skills
+Coursework
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +42,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams
+* Languages: Python, Java, C, C++, Mathematica, OCaml, MATLAB, SQL
+* Technologies/Libraries: Github, Pytorch, Tensorflow, Jupyter
