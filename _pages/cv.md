@@ -31,10 +31,10 @@ redirect_from:
 
 **Publications**
 --
- * **Just how hard are rotations of ℤ^n^? Algorithms and cryptography with the simplest lattice**
-   with Huck Bennett, Pura Peetathawatchai, and Noah Stephens-Davidowitz
-   EUROCRYPT 2023
-   [Arxiv](https://eprint.iacr.org/2021/1548)
+ * **Just how hard are rotations of ℤ^n^? Algorithms and cryptography with the simplest lattice**\
+   with Huck Bennett, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
+   **EUROCRYPT 2023**\
+   [[Arxiv](https://eprint.iacr.org/2021/1548)]
   
 **Teaching**
 --
