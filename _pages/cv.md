@@ -28,15 +28,11 @@ redirect_from:
 ## Coursework
 ---
 
-|                     |                     |                       |                     |
-|---------------------|---------------------|-----------------------|---------------------|
-| Algorithms †‡       | Deep Learning †     | Complexity Theory †‡  | Combinatorics †‡    |
-| Learning Theory †   | Network Algorithms †| Pseudorandomness †    | Analysis †‡         |
-| Control Theory †    | Lattice Algorithms †| Cryptography          | Algebra ‡           |
-
+- **Algorithms †‡** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Deep Learning †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Complexity Theory †‡** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Combinatorics †‡**  
+- **Learning Theory †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Network Algorithms †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Pseudorandomness †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Analysis †‡**  
+- **Control Theory †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lattice Algorithms †** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cryptography** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Algebra ‡**  
 
 †: graduate coursework, ‡: multiple courses
-
 
 ## Publications
 ---
