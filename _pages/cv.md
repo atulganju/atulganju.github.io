@@ -31,14 +31,14 @@ redirect_from:
 
 **Publications**
 --
- * **Just how hard are rotations of ℤ^n^? Algorithms and cryptography with the simplest lattice**\
+ * **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
    with Huck Bennett, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
    **EUROCRYPT 2023**\
    [[Arxiv](https://eprint.iacr.org/2021/1548)]
 
 **Working Manuscripts**
 --
-* **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
+### **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
   
 * **Agnostic Active Learning via a Regression Oracle**\
@@ -49,7 +49,7 @@ redirect_from:
 * **Adaptive Rates for Interactive Decision Making**\
   with Karthik Sridharan\
   *planning submission for COLT 2025*\
-  <small>[[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]<small>
+  [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 **Teaching**
 --
