@@ -38,7 +38,7 @@ redirect_from:
 
 **Working Manuscripts**
 --
-### **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
+#### **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
   
 * **Agnostic Active Learning via a Regression Oracle**\
