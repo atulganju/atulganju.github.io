@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/just_how_hard_are_rotations_of_Zn
 excerpt: 'fill in here'
 date: 2023-04-10
-venue: 'Journal 1'
+venue: 'Eurocrypt 2023'
 paperurl: 'https://eprint.iacr.org/2021/1548'
 ---
 
