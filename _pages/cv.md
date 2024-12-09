@@ -27,7 +27,16 @@ redirect_from:
   
 ## Coursework
 ---
-* 
+
+|                     |                     |                       |                     |
+|---------------------|---------------------|-----------------------|---------------------|
+| Algorithms †‡       | Deep Learning †     | Complexity Theory †‡  | Combinatorics †‡    |
+| Learning Theory †   | Network Algorithms †| Pseudorandomness †    | Analysis †‡         |
+| Control Theory †    | Lattice Algorithms †| Cryptography          | Algebra ‡           |
+
+
+†: graduate coursework, ‡: multiple courses
+
 
 ## Publications
 ---
