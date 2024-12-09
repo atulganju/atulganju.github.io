@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -39,6 +38,14 @@ redirect_from:
 
 **Working Manuscripts**
 --
+* **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
+  [[Github](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
+  
+* **Agnostic Active Learning via a Regression Oracle**\
+  [[Github](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]
+
+* **Adaptive Rates for Interactive Decision Making**\
+  [[Github](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 **Teaching**
 --
