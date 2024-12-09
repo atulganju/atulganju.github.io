@@ -6,6 +6,7 @@ permalink: /publication/just_how_hard_are_rotations_of_Zn
 excerpt: 'fill in here'
 date: 2023-04-10
 venue: 'Eurocrypt 2023'
+citation: 'efjwe'
 paperurl: 'https://eprint.iacr.org/2021/1548'
 ---
 
