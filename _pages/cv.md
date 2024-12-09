@@ -31,9 +31,8 @@ redirect_from:
 
 **Publications**
 --
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * [Just how hard are rotations of ℤ^n^? Algorithms and cryptography with the simplest lattice](https://eprint.iacr.org/2021/1548)
+ * 
   
 **Teaching**
 --
