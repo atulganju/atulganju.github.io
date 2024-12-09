@@ -49,8 +49,7 @@ redirect_from:
 * **Adaptive Rates for Interactive Decision Making**\
   with Karthik Sridharan\
   *planning submission for COLT 2025*\
-  [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]\
-  <small> hello <small>
+  <small>[[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]<small>
   
 **Teaching**
 --
