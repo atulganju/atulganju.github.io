@@ -15,7 +15,7 @@ redirect_from:
 * B.A  in Mathematics and Computer Science (Magna Cum Laude), Cornell University, 2022
 
 ## Research Experience
-
+---
 * Research Assistant @ Cornell University (September 2023-Present):
   * Designed and analyzed the first tractable stream-based selective sampling algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Working on manuscript on track for submission to ICML 2025
   * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance aware bounds and other bounds via this framework. Project is on track for submission to COLT 2025.
@@ -26,18 +26,18 @@ redirect_from:
   * Proved existence of orthogonal projection-based Cook reduction from ZSVP to 2-SVP.
   
 ## Coursework
-
+---
 * 
 
 ## Publications
-
+---
  * **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
    with Huck Bennett, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
    **EUROCRYPT 2023**\
    [[Arxiv](https://eprint.iacr.org/2021/1548)]
 
 ## Working Manuscripts
-
+---
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
 
@@ -52,7 +52,7 @@ redirect_from:
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 ## Teaching Experience
-
+---
 * **Graduate Teaching Assistant** @ Cornell University  
   * CS 6784 Special Topics in Machine Learning: Control Theory *(Fall 2022)*  
   * CS 4820: Introduction to Analysis of Algorithms *(Spring 2023)*  
@@ -69,6 +69,6 @@ redirect_from:
 
   
 ## Technical Skills
-
+---
 * Languages: Python, Java, C, C++, Mathematica, OCaml, MATLAB, SQL
 * Technologies/Libraries: Github, Pytorch, Tensorflow, Jupyter
