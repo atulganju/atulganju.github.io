@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
+---
 * M.S. in Computer Science, Cornell University, 2024
 * B.A  in Mathematics and Computer Science (Magna Cum Laude), Cornell University, 2022
 
