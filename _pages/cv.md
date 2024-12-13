@@ -60,12 +60,12 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 * **Graduate Teaching Assistant** @ Cornell University  
   * CS 6784 Special Topics in Machine Learning: Control Theory *(Fall 2022)*  
-  * CS 4820: Introduction to Analysis of Algorithms *(Spring 2023)*  
-  * CS 4780: Introduction to Machine Learning *(Spring 2024)*  
+  * CS 4820: Introduction to Analysis of Algorithms *(Spring 2023)*
+  * CS 4783: Mathematical Foundations for Machine Learning *(Fall 2023)*  
+  * CS 4780: Introduction to Machine Learning *(Spring 2024)*
 
 * **Head Teaching Assistant** @ Cornell University  
   * CS 4820: Introduction to Analysis of Algorithms *(Summer 2021, Spring 2022)*  
-  * CS 4783: Mathematical Foundations for Machine Learning *(Fall 2023)*  
   * CS 4780: Introduction to Machine Learning *(Fall 2021)*  
 
 * **Teaching Assistant** @ Cornell University  
