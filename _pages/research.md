@@ -8,12 +8,12 @@ author_profile: true
 * **Agnostic Active Learning via Offline Regression** (with Shashaank Aiyer, Karthik Sridharan, and Ved Sriraman)\
   *planning submission for ICML 2025*\
   [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]\
-  We develop the first efficient algorithm for online active learning with performance guarantees when the problem instance is not realizable. In particular, we found that (1) offline binary classification reduces to offline regression with squared error whenever the benchmark function class is convex and (2) we can leverage this result to develop an efficient epoch-based algorithm for online active learning which provably works under significantly milder assumptions on the data distribution and benchmark function class than realizability.
+  We develop the first efficient algorithm for online active learning with performance guarantees when the problem instance is not realizable. Previous results either reduce this problem to offline binary classification, a problem which is widely believed to be intractable, or reduce the problem to online/offline regression with squared error and in doing so rely on the assumption that the problem instance being realizable and that the noisiness of the data distribution is bounded in expectation. Our result, which leverages our observation that offline binary classification reduces to offline regression with squared error whenever the benchmark function class is convex, allows us to develop an efficient epoch-based algorithm for online active learning which provably works under significantly milder assumptions on the data distribution and benchmark function class than realizability. 
 
 * **Adaptive Rates for Interactive Decision Making** (with Karthik Sridharan)\
   *planning submission for ICML 2025*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]\
-  We develop the a framework for constructing algorithms that attain adaptive regret bounds for a general class of interactive decision making problems. In particular, we found that (1) offline binary classification reduces to offline regression with squared error whenever the benchmark function class is convex and (2) we can leverage this result to develop an efficient epoch-based algorithm for online active learning which provably works under significantly milder assumptions on the data distribution and benchmark function class than realizability.
+  We develop the a framework for constructing algorithms that attain adaptive regret bounds for a general class of interactive decision making problems. In particular, 
 
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
