@@ -15,7 +15,7 @@ Recent work suggests rotations of the integer lattice (ℤ^n) are optimal candid
 ## Working Manuscripts
 
 * **Agnostic Active Learning via Offline Regression** (with Shashaank Aiyer, Karthik Sridharan, and Ved Sriraman)\
-  *planning submission for ICML 2025*
+  *In Submission*
   [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]\
 Previous works in online active learning either reduce this problem to offline binary classification, a problem which is widely believed to be intractable, or reduce this problem to online/offline regression with squared error and in doing so rely on the assumption that the problem instance being realizable and that the noisiness of the data distribution is bounded in expectation. We develop the first efficient algorithm for online active learning with performance guarantees when the problem instance is not realizable. Our result hinges on an observation that offline binary classification reduces to offline regression with squared error whenever the benchmark function class is convex. We leverage this observation to develop an efficient epoch-based algorithm for online active learning which provably works under significantly milder assumptions on the benchmark function class than realizability and equivalent noise assumptions to the ones made in previous work (as long as the benchmark class is convex). 
 
