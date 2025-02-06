@@ -32,9 +32,6 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Manuscripts/Working Manuscripts
 ---
-* **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
-  [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
-
 * **Active and Passive Learning Via Regression: Beyond Realizability**\
   with Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
   *in submission to COLT 2025*\
@@ -44,6 +41,9 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   with Karthik Sridharan\
   *planning submission for NeurIPS 2025*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
+  
+* **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
+  [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
 
 ## Research Experience
 ---
