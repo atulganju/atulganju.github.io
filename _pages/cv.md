@@ -30,19 +30,19 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
    **EUROCRYPT 2023**\
    [[Arxiv](https://eprint.iacr.org/2021/1548)]
 
-## Working Manuscripts
+## Manuscripts/Working Manuscripts
 ---
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
 
-* **Agnostic Active Learning via a Regression Oracle**\
+* **Active and Passive Learning Via Regression: Beyond Realizability**\
   with Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
-  *planning submission for ICML 2025*\
+  *in submission to COLT 2025*\
   [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]
 
 * **Adaptive Rates for Interactive Decision Making**\
   with Karthik Sridharan\
-  *planning submission for COLT 2025*\
+  *planning submission for NeurIPS 2025*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
 
 ## Research Experience
