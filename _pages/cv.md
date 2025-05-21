@@ -34,12 +34,12 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 * **Active and Passive Learning Via Regression: Beyond Realizability**\
   with Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
-  *in submission to COLT 2025*\
+  *in submission*\
   [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]
 
 * **Adaptive Rates for Interactive Decision Making**\
   with Karthik Sridharan\
-  *planning submission for NeurIPS 2025*\
+  *in progress*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
