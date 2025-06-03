@@ -14,9 +14,9 @@ Recent work suggests rotations of the integer lattice (ℤ^n) are optimal candid
 
 ## Manuscripts/Working Manuscripts
 
-* **Active and Passive Learning Via Regression: Beyond Realizability** (with Shashaank Aiyer, Karthik Sridharan, and Ved Sriraman)\
+* **Active Learning via Regression Beyond Realizability** (with Shashaank Aiyer, Karthik Sridharan, and Ved Sriraman)\
   *In Submission*
-  [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]\
+  [[Arxiv](http://arxiv.org/abs/2506.00316)]\
 Previous works in active learning either reduce this problem to offline classification, a problem which is widely believed to be intractable, or reduce this problem to online/offline regression and in doing so rely on the assumption that the problem instance is realizable. We develop the first efficient algorithm for active classification with performance guarantees when the problem instance is not realizable. Our result hinges on an observation that offline classification reduces to offline regression whenever the benchmark function class is convex. We leverage this observation to develop an efficient epoch-based improper algorithm for online active learning which provably works under a significantly milder assumptions than realizability as long as the benchmark class is convex. 
 
 * **Adaptive Rates for Interactive Decision Making** (with Karthik Sridharan)\
