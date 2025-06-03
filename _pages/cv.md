@@ -26,30 +26,31 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ## Publications
 ---
  * **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
-   with Huck Bennett, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
+   Huck Bennett, Atul Ganju, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
    **EUROCRYPT 2023**\
    [[Arxiv](https://eprint.iacr.org/2021/1548)]
 
 ## Manuscripts/Working Manuscripts
 ---
-* **Active and Passive Learning Via Regression: Beyond Realizability**\
-  with Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
+* **Active Learning via Regression Beyond Realizability**\
+  Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
   *in submission*\
-  [[Writeup](https://github.com/atulganju/Agnostic-Stream-Based-Selective-Sampling-via-Regression)]
+  [[Arxiv](http://arxiv.org/abs/2506.00316)]
 
 * **Adaptive Rates for Interactive Decision Making**\
-  with Karthik Sridharan\
+  Atul Ganju and Karthik Sridharan\
   *in progress*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
+  Atul Ganju\
   [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
 
 ## Research Experience
 ---
 * **Research Assistant** @ Cornell University (September 2023-Present):
-  * Designed and analyzed the first tractable stream-based selective sampling algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Project is in submission
-  * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance aware bounds and other bounds via this framework.
+  * Designed and analyzed the first stream-based active learning algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Project is in submission.
+  * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance-aware bounds and other bounds via this framework.
 
 * **Undergraduate Research Assistant** @ Cornell University (January 2021-February 2022):
   * Designed, implemented, and analyzed the results of experiments that tested the performance of basis reduction algorithms on bases for rotations of the integer lattice generated from a variety of basis sampling algorithms. Experiments were implemented in Python.
