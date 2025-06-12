@@ -34,12 +34,12 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ---
 * **Active Learning via Regression Beyond Realizability**\
   Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
-  *in submission*\
+  *In Submission*\
   [[Arxiv](http://arxiv.org/abs/2506.00316)]
 
 * **Adaptive Rates for Interactive Decision Making**\
   Atul Ganju and Karthik Sridharan\
-  *in progress*\
+  *In Progress*\
   [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
   
 * **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
