@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Atul Ganju"
 title_separator          : "-"
 name                     : &name "Atul Ganju"
-description              : &description "Machine Learning Theory @ Cornell University"
+description              : &description "Machine Learning Theory @ University of Southern California"
 url                      : https://atulganju.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atulganju.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "pfp.png"
   name             : "Atul Ganju"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Theory @ Cornell University"
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  bio              : "Machine Learning Theory @ University of Southern California"
+  location         : "Los Angeles, CA"
+  employer         : "University of Souther California"
   uri              : # URL
-  email            : "ag2222@cornell.edu" 
+  email            : "ganju@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
