@@ -14,7 +14,7 @@ I am currently a first year Ph.D. student in the Theory group at the University 
 **Research Interests**
 --
 Currently I'm interested in avenues for developing a more practical theory for machine learning. This has taken shape in my current research with projects aiming to answer the following questions:
-* **Relaxing Realizability:** Are there practical, sufficient conditions that ensure learnability of regression-based learning paradigms beyond the classical realizability assumption?
+* **Relaxing Realizability:** Are there practical and interpretable conditions that ensure learnability of regression-based learning paradigms—such as active learning, bandits, and reinforcement learning—beyond the classical realizability assumption?
 
 * **Adaptive Bounds for Interactive Decision Making:** Given intuition that the underlying model may have some favorable property, can we design algorithms that achieve model-dependent, adaptive regret bounds—performing better on problem instances that align with this intuition while maintaining strong worst-case guarantees?
 
