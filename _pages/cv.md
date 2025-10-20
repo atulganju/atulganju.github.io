@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 ---
-* M.S. in Computer Science, Cornell University, 2024
-* B.A  in Mathematics and Computer Science (Magna Cum Laude), Cornell University, 2022
+* Ph.D. in Computer Science, University of Southern California, 2025-Present
+* M.S. in Computer Science, Cornell University, 2022-2024
+* B.A  in Mathematics and Computer Science (Magna Cum Laude), Cornell University, 2018-2022
 
 ## Coursework
 ---
@@ -48,9 +49,12 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Research Experience
 ---
-* **Research Assistant** @ Cornell University (September 2023-Present):
-  * Designed and analyzed the first stream-based active learning algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning. Project is in submission.
-  * Developing a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems. Recovered the small-loss bounds for contextual bandits via this framework. Ongoing work is in recovering variance-aware bounds and other bounds via this framework.
+* **Research Assistant** @ University of Southern California (September 2023-May 2025):
+  * Developing and analyzing algorithms for interactive learning via regression under distributional/modeling assumptions weaker than realizability.
+  * Building a framework for constructing algorithms that achieve adaptive regret bounds for a general class of interactive decision-making problems.
+    
+* **Research Assistant** @ Cornell University (September 2023-May 2025):
+  * Designed and analyzed the first stream-based active learning algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning.
 
 * **Undergraduate Research Assistant** @ Cornell University (January 2021-February 2022):
   * Designed, implemented, and analyzed the results of experiments that tested the performance of basis reduction algorithms on bases for rotations of the integer lattice generated from a variety of basis sampling algorithms. Experiments were implemented in Python.
