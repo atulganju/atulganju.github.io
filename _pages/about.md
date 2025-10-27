@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am currently a first year Ph.D. student in the Theory group at the University of Southern California fortunate to be working with Professor [Haipeng Luo](https://haipeng-luo.net), Professor [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/), and Professor [Shaddin Dughmi](https://viterbi-web.usc.edu/~shaddin/). Previously, I was a Research Assistant in the Machine Learning Theory Group at Cornell University and prior to this, I recieved my M.S. in Computer Science from Cornell University (2024) where I was advised by Professor [Karthik Sridharan](https://www.cs.cornell.edu/~sridharan/). I recieved my B.A. in Computer Science and Mathematics from Cornell University (2022) under the supervision of Professor [Noah Stevens-Davidowitz](https://www.noahsd.com). 
+I am currently a first year Ph.D. student in the Theory group at the University of Southern California fortunate to be working with [Haipeng Luo](https://haipeng-luo.net), [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/), and [Shaddin Dughmi](https://viterbi-web.usc.edu/~shaddin/). Previously, I was a Research Assistant in the Machine Learning Theory Group at Cornell University and prior to this, I recieved my M.S. in Computer Science from Cornell University (2024) where I was advised by [Karthik Sridharan](https://www.cs.cornell.edu/~sridharan/). I recieved my B.A. in Computer Science and Mathematics from Cornell University (2022) under the supervision of [Noah Stevens-Davidowitz](https://www.noahsd.com). 
 
 **Research Interests**
 --
