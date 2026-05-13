@@ -33,19 +33,15 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Manuscripts/Working Manuscripts
 ---
+* **A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse**\
+  Atul Ganju, Travis McVoy, Shaddin Dughmi, Shang-Hua Teng\
+  *In Submission*\
+  [[Arxiv](https://arxiv.org/abs/2605.11302)]
+
 * **Active Learning via Regression Beyond Realizability**\
   Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
   *In Submission*\
   [[Arxiv](http://arxiv.org/abs/2506.00316)]
-
-* **Adaptive Rates for Interactive Decision Making**\
-  Atul Ganju and Karthik Sridharan\
-  *In Progress*\
-  [[Writeup](https://github.com/atulganju/Adaptive-Rates-for-Interactive-Decision-Making/blob/main/Adaptive_Rates_for_Interactive_Decision_Making.pdf)]
-  
-* **A Framework for Simple and Complex Contagion on Clustered Networks and its Implications**\
-  Atul Ganju\
-  [[Writeup](https://github.com/atulganju/Complex-Contagion-In-Clique-Based-Networks/tree/main)]
 
 ## Research Experience
 ---
