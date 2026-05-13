@@ -15,7 +15,7 @@ I am currently a first year Ph.D. student in the Theory group at the University 
 --
 Currently I'm interested in avenues for developing a more practical theory for machine learning. This has taken shape in my current research with projects aiming to answer the following questions:
 
-* **Learning with Auxiliary Information:** Can auxiliary information, such as chain-of-thought trajectories, fundamentally alter the statisitcal complexity of learning—turning tasks that are provably unlearnable from input–output data alone into ones that become learnable once such information is observed while also accelerating learning when it is already possible?
+* **Learning with Auxiliary Information:** Can auxiliary information—such as chain-of-thought trajectories, unlabeled data, distributional structure, or other forms of side information—fundamentally alter the statistical complexity of learning? In particular, can it turn tasks that are provably unlearnable from labeled input–output data alone into learnable ones, while also reducing sample complexity or accelerating learning in settings that are already learnable?
 
 * **The Power of Hallucination in Language Generation:** Is hallucination a necessary condition for creative breadth? When can data-driven hallucination become a productive form of imagination, and how can we ensure it remains benign?
 
