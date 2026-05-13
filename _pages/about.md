@@ -14,7 +14,12 @@ I am currently a first year Ph.D. student in the Theory group at the University 
 **Research Interests**
 --
 Currently I'm interested in avenues for developing a more practical theory for machine learning. This has taken shape in my current research with projects aiming to answer the following questions:
+
 * **Learning with Auxiliary Information:** Can auxiliary information, such as chain-of-thought trajectories, fundamentally alter the statisitcal complexity of learning—turning tasks that are provably unlearnable from input–output data alone into ones that become learnable once such information is observed while also accelerating learning when it is already possible?
+
+* **The Power of Hallucination in Language Generation:** Is hallucination a necessary condition for creative breadth? When can data-driven hallucination become a productive form of imagination, and how can we ensure it remains benign?
+
+* **Adaptive Algorithms:** Can we build algorithms for interactive learning that are capable of achieving tighter regret bounds under favorable conditions while still maintaining optimal guarantees in the worst case?
 
 * **Relaxing Realizability:** Are there practical and interpretable conditions that ensure learnability of regression-based learning paradigms—such as active learning, bandits, and reinforcement learning—beyond the classical realizability assumption?
 
