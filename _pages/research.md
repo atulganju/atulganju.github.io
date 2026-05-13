@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-* **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**
+* **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
   Huck Bennett, Atul Ganju, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
   *EUROCRYPT 2023*
   [[Arxiv](https://eprint.iacr.org/2021/1548)]\
