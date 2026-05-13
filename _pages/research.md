@@ -15,14 +15,15 @@ Recent work suggests rotations of the integer lattice (ℤ^n) are optimal candid
 
 ## Manuscripts/Working Manuscripts
 
-* **Active Learning via Regression Beyond Realizability**\
-  Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
-  *Preprint*
-  [[Arxiv](http://arxiv.org/abs/2506.00316)]\
-We present a new active learning framework for multiclass classification based on surrogate risk minimization that operates beyond the standard realizability assumption. Existing surrogate-based active learning algorithms crucially rely on realizability—the assumption that the optimal surrogate predictor lies within the model class—limiting their applicability in practical, misspecified settings. In this work we show that under conditions significantly weaker than realizability, as long as the class of models considered is convex, one can still obtain a label and sample complexity comparable to prior work. Despite achieving similar rates, the algorithmic approaches from prior works can be shown to fail in non-realizable settings where our assumption is satisfied. Our epoch-based active learning algorithm departs from prior methods by fitting a model from the full class to the queried data in each epoch and returning an improper classifier obtained by aggregating these models.
-
 * **A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse**\
   Atul Ganju, Travis McVoy, Shaddin Dughmi, Shang-Hua Teng\
   *Preprint*
   [[Arxiv](https://arxiv.org/abs/2605.11302)]\
 We study language generation in the limit under a global preference ordering on strings, as introduced by Kleinberg and Wei. We aim for breadth, but impose an additional requirement of timeliness: higher-ranked strings should be generated earlier. A string is then only credited if it is generated before a deadline, where its deadline is defined by a function that maps a string's rank in the target language to the time by which it must be produced. This is in keeping with a central consideration in machine learning, where inductive bias favors ``simpler'' or ``more plausible'' outputs, all else being equal. We show that timely generation is impossible in a strong sense for eventually consistent generators -- the protagonists of most prior related work. Under what is perhaps the mildest natural relaxation of consistency, a hallucination rate that vanishes over time, we show that we can circumvent our impossibility result. In particular, we can achieve optimal density with respect to any superlinear deadline function. We also show this is tight by ruling out timely generation with linear deadlines and vanishing hallucination rate.
+
+
+* **Active Learning via Regression Beyond Realizability**\
+  Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
+  *Preprint*
+  [[Arxiv](http://arxiv.org/abs/2506.00316)]\
+We present a new active learning framework for multiclass classification based on surrogate risk minimization that operates beyond the standard realizability assumption. Existing surrogate-based active learning algorithms crucially rely on realizability—the assumption that the optimal surrogate predictor lies within the model class—limiting their applicability in practical, misspecified settings. In this work we show that under conditions significantly weaker than realizability, as long as the class of models considered is convex, one can still obtain a label and sample complexity comparable to prior work. Despite achieving similar rates, the algorithmic approaches from prior works can be shown to fail in non-realizable settings where our assumption is satisfied. Our epoch-based active learning algorithm departs from prior methods by fitting a model from the full class to the queried data in each epoch and returning an improper classifier obtained by aggregating these models.
