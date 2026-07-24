@@ -45,10 +45,10 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Research Experience
 ---
-* **Research Assistant** @ University of Southern California (September 2023-May 2025):
+* **Research Assistant** @ University of Southern California (August 2025-Present):
   * Equipped a well-studied framework for langauge generation to incorporate a notion of time-sensitivity. Showed that hallucination is necessary to achieve a breadth of output.
   * Exploring the role of auxiliary data, both distributional and functional, in facilitating learning.
-  * Developing interactive learning algorithms that are robust to distributional/modeling assumptions weaker than realizability and algorithms that can achieve adaptive regret bounds.
+  * Developing algorithms for domain adaptation that go beyond standard transfer learning guarantees.
     
 * **Research Assistant** @ Cornell University (September 2023-May 2025):
   * Designed and analyzed the first stream-based active learning algorithm with provable guarantees when the problem is not realizable. Mentored two undergraduate students in their first research experience in machine learning.
