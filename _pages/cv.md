@@ -26,18 +26,17 @@ Control Theory † &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ## Publications
 ---
- * **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
-   Huck Bennett, Atul Ganju, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
-   **EUROCRYPT 2023**\
-   [[Arxiv](https://eprint.iacr.org/2021/1548)]
+* **A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse**\
+    Atul Ganju, Travis McVoy, Shaddin Dughmi, Shang-Hua Teng\
+    **NeurIPS 2026**\
+    [[Arxiv](https://arxiv.org/abs/2605.11302)]
+* **Just how hard are rotations of ℤ^n? Algorithms and cryptography with the simplest lattice**\
+    Huck Bennett, Atul Ganju, Pura Peetathawatchai, and Noah Stephens-Davidowitz\
+    **EUROCRYPT 2023**\
+    [[Arxiv](https://eprint.iacr.org/2021/1548)]
 
 ## Manuscripts/Working Manuscripts
 ---
-* **A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse**\
-  Atul Ganju, Travis McVoy, Shaddin Dughmi, Shang-Hua Teng\
-  *In Submission*\
-  [[Arxiv](https://arxiv.org/abs/2605.11302)]
-
 * **Active Learning via Regression Beyond Realizability**\
   Atul Ganju, Shashaank Aiyer, Ved Sriraman, and Karthik Sridharan\
   *In Submission*\
